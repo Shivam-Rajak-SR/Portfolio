@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This project showcases my skills in fr
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Folder Structure](#folder-structure)
-- [Live Demo](#live-demo)
+- [Live Demo](https://shivam-rajak-sr.github.io/Portfolio/)
 - [Contribution](#contribution)
 
 ## Project Overview
